@@ -10,9 +10,9 @@
 I'm a software developer focused on building functional, scalable, and well-architected applications. My experience spans desktop, web, and backend development — with an eye for detail and a preference for clean design, both in code and UI.
 
 Currently exploring:
-- Secure and maintainable app development
-- Neo4j + LLMs for intelligent systems
-- Ethical hacking & cybersecurity
+- Secure and maintainable app development  
+- Neo4j + LLMs for intelligent systems  
+- Ethical hacking & cybersecurity  
 
 ---
 
@@ -23,6 +23,8 @@ Currently exploring:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -43,19 +45,19 @@ Currently exploring:
 
 ## 📌 Interests
 
-- Designing intuitive interfaces
-- Building tools that solve real-world problems
-- Working at the intersection of code and design
-- Learning how to make software secure and resilient
+- Designing intuitive interfaces  
+- Building tools that solve real-world problems  
+- Working at the intersection of code and design  
+- Learning how to make software secure and resilient  
 
 ---
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/farazsaudagar/)
-- [Email](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farazsaudagar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <!-- Optional GitHub Stats (Uncomment if you'd like to use them) -->
-
+<!--
 ![Faraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarazSaudagar&show_icons=true&theme=default)
-
+-->
